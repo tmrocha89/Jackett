@@ -182,6 +182,7 @@
     <Compile Include="Indexers\cgpeers.cs" />
     <Compile Include="Indexers\PiXELHD.cs" />
     <Compile Include="Indexers\Hardbay.cs" />
+    <Compile Include="Indexers\YTS.cs" />
     <Compile Include="Indexers\Rarbg.cs" />
     <Compile Include="Indexers\Psytorrents.cs" />
     <Compile Include="Indexers\ShowRSS.cs" />
